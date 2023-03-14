@@ -10,13 +10,14 @@
         private string name;
 
         // properties start with capital letter.
+        // get and set are accessors.
         public int Height 
         { 
             get
             {
                 return height;
             }
-            set
+            private set
             {
                 height = value;
             }
