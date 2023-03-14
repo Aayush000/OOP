@@ -49,7 +49,7 @@
                 }
                 else
                 {
-                    System.Console.WriteLine($"The selected age for {name} is not proper age of warrier. It should be between 18 and 45.");
+                    throw new ArgumentOutOfRangeException(string.Empty, $"The selected age for {name} is not proper age of warrier. It should be between 18 and 45.");
                 }
             }
         }

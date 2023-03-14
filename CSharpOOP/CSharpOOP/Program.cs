@@ -14,6 +14,16 @@ public class Program
         theGoodGuy.Age = 25;
         theBadGuy.Age = 15;
 
+        try
+        {
+            theGoodGuy.Age = 25;
+            theBadGuy.Age = 15;
+        }
+        catch (ArgumentOutOfRangeException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+
         Console.WriteLine(theGoodGuy.Age);
         Console.WriteLine(theBadGuy.Age);
 
