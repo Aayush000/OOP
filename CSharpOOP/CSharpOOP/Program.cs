@@ -11,9 +11,13 @@ public class Program
         Console.WriteLine(theGoodGuy.Height);
         Console.WriteLine(theBadGuy.Height);
 
-        // Gets error saying the value is inaccessible.
-        // theBadGuy.Height = 10;
+        theGoodGuy.Age = 25;
+        theBadGuy.Age = 15;
+
+        Console.WriteLine(theGoodGuy.Age);
+        Console.WriteLine(theBadGuy.Age);
 
         theGoodGuy.Greetings(theBadGuy); 
+        theBadGuy.Greetings(theGoodGuy); 
     }
 }
