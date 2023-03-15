@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\c#\\CSharpOOP\\CSharpOOP\\CSharpOOP.csproj": {}
+    "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\OOP\\c#\\CSharpOOP\\CSharpOOP\\CSharpOOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\c#\\CSharpOOP\\CSharpOOP\\CSharpOOP.csproj": {
+    "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\OOP\\c#\\CSharpOOP\\CSharpOOP\\CSharpOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\c#\\CSharpOOP\\CSharpOOP\\CSharpOOP.csproj",
+        "projectUniqueName": "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\OOP\\c#\\CSharpOOP\\CSharpOOP\\CSharpOOP.csproj",
         "projectName": "CSharpOOP",
-        "projectPath": "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\c#\\CSharpOOP\\CSharpOOP\\CSharpOOP.csproj",
+        "projectPath": "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\OOP\\c#\\CSharpOOP\\CSharpOOP\\CSharpOOP.csproj",
         "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\c#\\CSharpOOP\\CSharpOOP\\obj\\",
+        "outputPath": "C:\\Users\\kumar\\OneDrive - Fisk University\\Documents\\OOP\\c#\\CSharpOOP\\CSharpOOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
